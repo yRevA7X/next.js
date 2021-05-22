@@ -11,8 +11,8 @@
     "apollo-server-micro": "2.13.1",
     "graphql": "15.0.0",
     "next": "latest",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
   },
   "license": "MIT"
 }
