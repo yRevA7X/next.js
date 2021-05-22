@@ -9,8 +9,8 @@
   "dependencies": {
     "framer-motion": "latest",
     "next": "latest",
-    "react": "16.11.0",
-    "react-dom": "16.11.0"
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
   },
   "license": "MIT"
 }
