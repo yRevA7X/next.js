@@ -9,7 +9,7 @@
   "dependencies": {
     "@agility/content-fetch": "^0.8.1",
     "classnames": "2.2.6",
-    "date-fns": "2.10.0",
+    "date-fns": "2.21.1",
     "isomorphic-unfetch": "3.0.0",
     "next": "latest",
     "react": "^16.13.0",
