@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "bulma-pro": "^0.1.7",
+    "bulma-pro": "^0.2.0",
     "next": "^9.1.8-canary.11",
     "rbx": "^2.2.0",
     "react": "^16.13.1",
