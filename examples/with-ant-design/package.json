@@ -7,7 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@ant-design/icons": "4.2.1",
+    "@ant-design/icons": "4.6.2",
     "@next/bundle-analyzer": "^9.1.4",
     "antd": "4.3.0",
     "cross-env": "^7.0.2",
