@@ -19,7 +19,7 @@
     "react-relay": "^9.0.0",
     "react-relay-network-modern": "^4.5.0",
     "react-relay-network-modern-ssr": "^1.4.0",
-    "relay-hooks": "3.5.2"
+    "relay-hooks": "3.7.1"
   },
   "devDependencies": {
     "babel-plugin-relay": "^9.0.0",
