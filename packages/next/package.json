@@ -64,7 +64,7 @@
     "@babel/runtime": "7.12.5",
     "@hapi/accept": "5.0.1",
     "@next/env": "10.0.6-canary.6",
-    "@next/polyfill-module": "10.0.6-canary.6",
+    "@next/polyfill-module": "10.2.0",
     "@next/react-dev-overlay": "10.0.6-canary.6",
     "@next/react-refresh-utils": "10.0.6-canary.6",
     "@opentelemetry/api": "0.14.0",
