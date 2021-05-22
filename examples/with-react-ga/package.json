@@ -10,7 +10,7 @@
     "next": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-ga": "2.5.3"
+    "react-ga": "2.7.0"
   },
   "license": "MIT"
 }
