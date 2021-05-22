@@ -16,7 +16,7 @@
     "next": "*"
   },
   "dependencies": {
-    "@sentry/browser": "5.7.1",
+    "@sentry/browser": "5.30.0",
     "@sentry/node": "5.7.1"
   }
 }
