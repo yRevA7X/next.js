@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "algoliasearch": "4.3.0",
+    "algoliasearch": "4.9.1",
     "cross-env": "^7.0.2",
     "css-loader": "1.0.0",
     "next": "latest",
