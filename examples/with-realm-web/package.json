@@ -10,7 +10,7 @@
     "next": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "realm-web": "0.4.0",
+    "realm-web": "0.9.0",
     "swr": "0.2.3"
   },
   "license": "MIT"
