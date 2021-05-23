@@ -10,7 +10,7 @@
     "@kentico/kontent-delivery": "^9.2.0",
     "classnames": "2.2.6",
     "date-fns": "2.10.0",
-    "gray-matter": "4.0.2",
+    "gray-matter": "4.0.3",
     "next": "latest",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
