@@ -16,7 +16,7 @@
     "react-datocms": "1.2.4",
     "react-dom": "^16.13.1",
     "react-imgix": "^9.0.2",
-    "remark": "12.0.0",
+    "remark": "12.0.1",
     "remark-html": "11.0.2"
   },
   "devDependencies": {
