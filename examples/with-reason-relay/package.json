@@ -18,7 +18,7 @@
     "bs-platform": "7.2.2",
     "dotenv": "^8.2.0",
     "dotenv-webpack": "^1.7.0",
-    "graphql": "15.0.0",
+    "graphql": "15.5.0",
     "isomorphic-unfetch": "^3.0.0",
     "next": "latest",
     "next-transpile-modules": "4.0.2",
