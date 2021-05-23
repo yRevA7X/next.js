@@ -16,7 +16,7 @@
   "dependencies": {
     "knex": "0.21.6",
     "next": "latest",
-    "pg": "8.4.1",
+    "pg": "8.6.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
