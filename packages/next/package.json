@@ -69,7 +69,7 @@
     "@next/react-refresh-utils": "10.0.6-canary.6",
     "@opentelemetry/api": "0.14.0",
     "ast-types": "0.13.2",
-    "browserslist": "4.14.6",
+    "browserslist": "4.16.5",
     "buffer": "5.6.0",
     "caniuse-lite": "^1.0.30001113",
     "chalk": "2.4.2",
