@@ -17,7 +17,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "uuid": "8.1.0"
+    "uuid": "8.3.2"
   },
   "license": "MIT"
 }
