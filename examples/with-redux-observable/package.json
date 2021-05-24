@@ -14,7 +14,7 @@
     "redux": "4.0.5",
     "redux-logger": "3.0.6",
     "redux-observable": "1.2.0",
-    "rxjs": "6.5.5",
+    "rxjs": "6.6.7",
     "universal-rxjs-ajax": "2.0.4"
   },
   "license": "MIT"
