@@ -9,7 +9,7 @@
   "dependencies": {
     "autoprefixer": "10.1.0",
     "classnames": "2.2.6",
-    "date-fns": "2.10.0",
+    "date-fns": "2.21.3",
     "next": "latest",
     "postcss": "8.2.2",
     "react": "17.0.1",
