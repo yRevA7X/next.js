@@ -9,7 +9,7 @@
     "next": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "sass": "1.26.3"
+    "sass": "1.33.0"
   },
   "license": "MIT"
 }
