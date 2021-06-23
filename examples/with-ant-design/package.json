@@ -11,7 +11,7 @@
     "@next/bundle-analyzer": "^9.1.4",
     "antd": "4.3.0",
     "cross-env": "^7.0.2",
-    "dayjs": "1.8.28",
+    "dayjs": "1.10.5",
     "esm": "^3.2.25",
     "next": "latest",
     "postcss-preset-env": "^6.7.0",
