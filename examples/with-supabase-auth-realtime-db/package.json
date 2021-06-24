@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^1.2.1",
-    "@supabase/ui": "^0.6.1",
+    "@supabase/ui": "^0.27.2",
     "next": "latest",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
